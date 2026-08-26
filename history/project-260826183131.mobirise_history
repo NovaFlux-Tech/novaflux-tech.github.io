@@ -82,7 +82,9 @@
     "witsec-white-label": true,
     "uniqCompNum": 7,
     "versionPublish": "6.1.12",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
