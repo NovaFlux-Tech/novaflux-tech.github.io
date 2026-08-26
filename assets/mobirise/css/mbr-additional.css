@@ -45,7 +45,7 @@ body {
   font-size: 1.75rem;
 }
 .display-5 {
-  font-family: undefined;
+  font-family: 'Zen Antique', serif;
   font-size: 1.8rem;
   line-height: 1.5;
 }
@@ -988,6 +988,17 @@ a {
 }
 .cid-vjjhyQN8Dy .content-head {
   max-width: 800px;
+}
+.cid-vtpz2fOE86 {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-color: #000918;
+}
+.cid-vtpz2fOE86 img {
+  width: auto;
+}
+.cid-vtpz2fOE86 H2 {
+  text-align: center;
 }
 .cid-vjjjwmVoqT {
   padding-top: 6rem;
